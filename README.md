@@ -1,11 +1,13 @@
+<a href="#">
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=586069&title_color=a0a9af"
+ </a>
+
 ### Welcome to Mahmoud Zidan's GitHub 👋
 
-![Zidan's github stats](https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=dark)
-
-![](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
-![](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
-![](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
-![](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
+![#](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
+![#](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
+![#](https://img.shields.io/badge/-PyTorch-e34f26?style=flat-square&logo=PyTorch&logoColor=fff)
+![#](https://img.shields.io/badge/-TensorFlow-e5cd0c?style=flat-square&logo=TensorFlow&logoColor=fff)
 
 
 
@@ -14,6 +16,7 @@
 **ZidanMusk/ZidanMusk** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 [![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=ZidanMusk&repo=deep-RL-DQN-tensorflow&theme=dark)](https://github.com/ZidanMusk/deep-RL-DQN-tensorflow)
+![Zidan's github stats](https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=dark&align="left")
 
 Here are some ideas to get you started:
 
