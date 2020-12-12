@@ -1,5 +1,5 @@
 <a href="#">
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=dark&hide_border=true&icon_color=586069&title_color=a0a9af"
+<img align="right" src="https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=tokyonight&hide_border=false"
  </a>
 
 ### Welcome to Mahmoud Zidan's GitHub 👋
