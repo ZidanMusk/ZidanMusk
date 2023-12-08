@@ -2,7 +2,7 @@
 <img align="right" src="https://github-readme-stats.vercel.app/api?username=ZidanMusk&count_private=true&show_icons=true&theme=tokyonight&hide_border=false"
  </a>
 
-### Welcome to Mahmoud Zidan's GitHub 👋
+### Welcome to M.Zidan's GitHub 👋
 
 ![#](https://img.shields.io/badge/-Python-333?style=flat-square&logo=Python&logoColor=fff)
 ![#](https://img.shields.io/badge/-C/C++-c14438?style=flat-square&logo=C&logoColor=fff)
